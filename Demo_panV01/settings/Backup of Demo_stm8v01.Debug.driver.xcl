@@ -1,0 +1,15 @@
+"-p" 
+
+"D:\Install\IAR\stm8\config\ddf\iostm8l151g6.ddf" 
+
+"-d" 
+
+"stlink" 
+
+"--mcuname" 
+
+"STM8L151G6" 
+
+
+
+
